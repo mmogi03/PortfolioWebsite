@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "React.js, Node.js, JavaScript",
     description:
       "App that allows users to view animations of different path-finding algorithms including A*, Dijkstra's, DFS, and BFS.",
-    image: "./pathfing.png",
+    image: "./pathfind.png",
     link: "https://github.com/mmogi03/PathFindingVisualizer",
   },
   {
